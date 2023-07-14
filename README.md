@@ -1,2 +1,2 @@
 # nextjssetup
-next js setup for application
+next js setup for application update
